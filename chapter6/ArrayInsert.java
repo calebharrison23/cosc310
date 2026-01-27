@@ -1,7 +1,7 @@
 package chapter6;
 import java.util.Arrays;    
 
-public class ArrayInsert extends target {
+public class ArrayInsert extends Target {
     
     public ArrayInsert(int arr[], java.util.ArrayList<Integer> list, String name) {
         super(arr, list, name);
