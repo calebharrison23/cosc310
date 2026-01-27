@@ -1,5 +1,5 @@
 package chapter6;
-import java.util.Arrays;    
+
 
 public class ArrayInsert extends Target {
     
