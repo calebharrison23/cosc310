@@ -1,0 +1,40 @@
+array,random_access,1,717.67
+array,random_access,2,201.67
+array,random_access,3,200.04
+array,random_access,4,196.83
+array,random_access,5,199.75
+arraylist, random_access,1,4395.88
+arraylist, random_access,2,867.42
+arraylist, random_access,3,595.71
+arraylist, random_access,4,307.42
+arraylist, random_access,5,176.71
+array,append,1,1274.17
+array,append,2,284.71
+array,append,3,298.13
+array,append,4,268.79
+array,append,5,309.79
+arraylist, append,1,2349.21
+arraylist, append,2,1079.96
+arraylist, append,3,1188.08
+arraylist, append,4,588.46
+arraylist, append,5,932.75
+array,insert,1,1207.71
+array,insert,2,568.25
+array,insert,3,615.04
+array,insert,4,363.54
+array,insert,5,615.50
+arraylist, insert,1,1284.21
+arraylist, insert,2,466.58
+arraylist, insert,3,639.33
+arraylist, insert,4,615.96
+arraylist, insert,5,619.29
+array,remove,1,952.67
+array,remove,2,281.79
+array,remove,3,361.83
+array,remove,4,368.33
+array,remove,5,366.42
+arraylist, remove,1,306349.00
+arraylist, remove,2,299200.75
+arraylist, remove,3,241748.67
+arraylist, remove,4,211038.83
+arraylist, remove,5,179385.83

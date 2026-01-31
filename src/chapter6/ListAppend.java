@@ -1,22 +1,20 @@
-package chapter6;
-
+package src.chapter6;
 import java.util.ArrayList;
+public class ListAppend extends Target{
 
-public class ListRandom extends Target {
-
-    public ListRandom(int arr[], ArrayList<Integer> list, String name) {
+    public ListAppend(int arr[], ArrayList<Integer> list, String name) {
         super(arr, list, name);
-    }    
+    }
+    
 
     @Override
     public int method(int[] indicesOrnums) {
         int result = 0;
         for (int i = 0; i < indicesOrnums.length; i++) {
-            result += list.get(indicesOrnums[i]);
+            result += arr[indicesOrnums[i]];
+            list.add(indicesOrnums[i]);
         }
         return result;
     }
-
-
     
 }

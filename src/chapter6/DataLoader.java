@@ -1,4 +1,4 @@
-package chapter6;
+package src.chapter6;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

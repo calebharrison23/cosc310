@@ -1,4 +1,4 @@
-package chapter6;
+package src.chapter6;
 
 import java.io.PrintWriter;
 import java.util.ArrayList;
