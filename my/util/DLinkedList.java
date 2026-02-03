@@ -4,15 +4,18 @@ public class DLinkedList<T> {
 
     private DNode<T> head;
     private DNode<T> tail;
+    private int size = 0;
 
     public DLinkedList() {
         
     }
 
     public void addAfter(DNode<T> node, T data) {
+        size++;
     }
 
     public void add(T data) {
+        size++;
 
     }
 
